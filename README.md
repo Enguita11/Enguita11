@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Enguita11&show_icons=true&theme=nord&count_private=true&hide_border=true" alt="Estadísticas de GitHub"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=nord&hide_border=true" alt="Top Lenguajes"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enguita11&layout=compact&theme=nord&hide_border=true" alt="Top Lenguajes"/>
 </p>
 
 ---
