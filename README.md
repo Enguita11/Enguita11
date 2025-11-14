@@ -16,7 +16,7 @@ Bete daki payasoo
   
 ---
 
-<h3 align="center">Mierdas que nadie mira</h3>
+<h3 align="center">kien coño mira esto</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enguita11&theme=github_dark" alt="Top Lenguajes"/>
