@@ -5,7 +5,7 @@
   💻 Desarrollador
 </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,nextjs,,python,,,,git,discord,vscode,apple,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,git,discord,vscode,apple,linux)](https://skillicons.dev)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=nord&count_private=true&hide_border=true" alt="Estadísticas de GitHub"/>
