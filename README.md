@@ -9,7 +9,9 @@ Bete daki payasoo
 <p align="center">
   <strong>Esto kda bn</strong>
   <br>
-  [![My Skills](https://skillicons.dev/icons?i=js,python,git,discord,vscode,apple,linux)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,python,git,discord,vscode,apple,linux" alt="My Skills"/>
+  </a>
 </p>
   
 ---
