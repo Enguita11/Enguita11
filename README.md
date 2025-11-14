@@ -1,20 +1,17 @@
 <h1 align="center">
-  ¡Hola! 👋 Soy Enguita
+¡Buenaaasss!
 </h1>
 
 <p align="center">
-  Bete daki payasoo
+Bete daki payasoo
 </p>
-
-  
-  <p align="center">
+  
+<p align="center">
+  <strong>Esto kda bn</strong>
   <br>
-    <Strong> Esto kda bn <Strong>
-    https://skillicons.dev/icons?i=js,python,git,discord,vscode,apple,linux](https://skillicons.dev)
-  </p>
-  
-
-
+  [![My Skills](https://skillicons.dev/icons?i=js,python,git,discord,vscode,apple,linux)](https://skillicons.dev)
+</p>
+  
 ---
 
 <h3 align="center">Mierdas que nadie mira</h3>
@@ -27,5 +24,5 @@
 ---
 
 <p align="center">
-  Hecho con ❤️ por Enguita (Gemini Pro)
+Hecho con ❤️ por Enguita (Gemini Pro)
 </p>
