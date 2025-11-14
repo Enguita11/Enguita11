@@ -6,15 +6,14 @@
   Bete daki payasoo
 </p>
 
-<details align="center">
   
   <p align="center">
   <br>
     <Strong> Esto kda bn <Strong>
-    [![My Skills](https://skillicons.dev/icons?i=js,python,git,discord,vscode,apple,linux)](https://skillicons.dev)
+    https://skillicons.dev/icons?i=js,python,git,discord,vscode,apple,linux](https://skillicons.dev)
   </p>
   
-</details>
+
 
 ---
 
